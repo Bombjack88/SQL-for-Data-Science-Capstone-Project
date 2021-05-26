@@ -1,5 +1,5 @@
 # SQL for Data Science Capstone Project
- SQL for Data Science Capstone Project - assignment
+ SQL for Data Science Capstone Project
  
 Dataset:
 120 years of Olympic history: athletes and results
